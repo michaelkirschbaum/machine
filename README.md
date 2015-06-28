@@ -1,4 +1,4 @@
-Non-Deterministic Pushdown Automata Emulator written by Michael Kirschbaum
+# Non-Deterministic Pushdown Automata Emulator
 
 The emulator is built using the 'make' command.
 The format for the executable is './NPDA <input file name>'.
