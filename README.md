@@ -1,7 +1,7 @@
 # Nondeterministic Pushdown Automata Emulator
 
 The emulator is built using the 'make' command.
-The format for the executable is './NPDA <input file name>'.
+The format for the executable is './NPDA &ltinput file name&gt'.
 
 The input file must consist of a relations table followed by test cases.
 The beginning of the relations table must be specified by the token '%BT' and end with '%ET'.
