@@ -1,4 +1,4 @@
-# Nondeterministic Pushdown Automata Emulator
+# Machine
 
 The emulator is built using the 'make' command.
 The format for the executable is './NPDA &ltinput file name&gt'.
